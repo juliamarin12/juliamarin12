@@ -1,16 +1,13 @@
-### Hi there 👋
+###título
 
-<!--
-**juliamarin12/juliamarin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**negrito**
 
-Here are some ideas to get you started:
+*italico*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+emoji 😺
+
+site [site gif](https://giphy.com/)
+
+gif
+
+![](https://media3.giphy.com/media/gRYYJcu7jp97XJw9FA/200w.webp?cid=82a1493byplhniuwjmcovpmw4yhmcdrhicovigxp1eimkz79&ep=v1_gifs_trending&rid=200w.webp&ct=g)
